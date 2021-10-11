@@ -1,0 +1,12 @@
+E:\Books\leve3.2\HomeWork\EhabMessage\obj\Debug\EhabMessage.EhabMessageBox.resources
+E:\Books\leve3.2\HomeWork\EhabMessage\obj\Debug\EhabMessage.Form2.resources
+E:\Books\leve3.2\HomeWork\EhabMessage\obj\Debug\EhabMessage.csproj.GenerateResource.cache
+E:\Books\leve3.2\HomeWork\EhabMessage\bin\Debug\EhabMessage.exe.config
+E:\Books\leve3.2\HomeWork\EhabMessage\bin\Debug\EhabMessage.exe
+E:\Books\leve3.2\HomeWork\EhabMessage\bin\Debug\EhabMessage.pdb
+E:\Books\leve3.2\HomeWork\EhabMessage\bin\Debug\FontAwesome.Sharp.dll
+E:\Books\leve3.2\HomeWork\EhabMessage\obj\Debug\EhabMessage.Properties.Resources.resources
+E:\Books\leve3.2\HomeWork\EhabMessage\obj\Debug\EhabMessage.csproj.CoreCompileInputs.cache
+E:\Books\leve3.2\HomeWork\EhabMessage\obj\Debug\EhabMessage.csproj.CopyComplete
+E:\Books\leve3.2\HomeWork\EhabMessage\obj\Debug\EhabMessage.exe
+E:\Books\leve3.2\HomeWork\EhabMessage\obj\Debug\EhabMessage.pdb
